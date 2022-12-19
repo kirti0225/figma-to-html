@@ -1,0 +1,2014 @@
+body {
+    background: #E5E5E5;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.nav {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    width: 100%;
+}
+
+.left {
+    flex: 3;
+}
+
+.bar1 {
+    position: absolute;
+    width: 22.33px;
+    height: 3px;
+    left: 31px;
+    top: 43px;
+    background: #222222;
+}
+
+.bar2 {
+    position: absolute;
+    width: 29.33px;
+    height: 3px;
+    left: 24px;
+    top: 31px;
+    background: #222222;
+}
+
+.center {
+    flex: 3;
+}
+
+.logo {
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+    font-size: 28.75px;
+    text-transform: uppercase;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+}
+
+.right {
+    flex: 0.5;
+
+}
+
+.vector {
+    position: absolute;
+    width: 12px;
+    height: 0px;
+    border: 1px solid #000000;
+}
+
+.vector1 {
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+    font-size: 10.75px;
+    text-transform: capitalize;
+}
+
+.image1 {
+    position: absolute;
+    width: 92%;
+    height: 100%;
+    left: 79px;
+    top: 79px;
+    background: #05283E
+}
+
+img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+
+}
+
+.text {
+    position: absolute;
+    width: 842px;
+    height: 250px;
+    left: 190px;
+    top: 186px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 80px;
+    line-height: 90px;
+    letter-spacing: -0.02em;
+    color: #ffffff;
+    border: 1px solid #000000;
+}
+
+.main3 {
+    position: absolute;
+    width: 994px;
+    height: 100px;
+    left: 75px;
+    top: 625px;
+}
+
+.rect {
+    position: absolute;
+    width: 57px;
+    height: 1px;
+    left: 232px;
+    top: 15px;    background: #FFFFFF;
+}
+
+.num {
+    position: absolute;
+    width: 18px;
+    height: 27px;
+    left: 206px;
+    top: -50px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 29px;
+    letter-spacing: -0.05em;
+    border: 1px solid #FFFFFF;
+    color: white;
+}
+
+.text1 {
+    position: absolute;
+    width: 458px;
+    height: 34px;
+    left: 290px;
+    top: -50px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 35px;
+    color: #FFFFFF;
+
+}
+
+.text2 {
+    position: absolute;
+    width: 270px;
+    height: 34px;
+    left: 799px;
+    top: -50px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 35px;
+    background: linear-gradient(89.86deg, #FFFFFF -2.09%, rgba(255, 255, 255, 0.3) 37.07%, rgba(255, 255, 255, 0) 88.12%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;}
+
+.text3 {
+
+    position: absolute;
+    width: 178px;
+    height: 34px;
+    left: 75px;
+    top: -50px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 35px;
+    background: linear-gradient(90deg, #FFFFFF -6.46%, rgba(255, 255, 255, 0.2) 54.85%, rgba(255, 255, 255, 0) 104.78%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.rect1 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 193px;
+    top: 480px;
+    background: #EC2232;
+    opacity: 0.5;
+}
+
+.works {
+    position: absolute;
+    width: 1136px;
+    height: 614px;
+    left: 392px;
+    top: 1105px;
+}
+
+.work1 {
+    position: absolute;
+    width: 1136px;
+    height: 154px;
+    left: -150px;
+    top: -150px;
+}
+
+.rect2 {
+    position: absolute;
+    width: 1px;
+    height: 154px;
+    top: 300px;
+    left: 350px;
+    background: #C4C4C4;
+}
+
+.rect3 {
+    position: absolute;
+    width: 1px;
+    height: 154px;
+    top: 300px;
+    left: 650px;
+    background: #C4C4C4;
+}
+
+.work2 {
+    position: absolute;
+    width: 299px;
+    height: 143px;
+
+}
+
+.group1 {
+    position: absolute;
+    width: 189px;
+    height: 99px;
+    top: 300px;
+    left: 350px;
+}
+
+.plus {
+    position: absolute;
+    width: 67px;
+    height: 85px;
+    left: 430px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+}
+
+.num1 {
+    position: absolute;
+    width: 121px;
+    font-size: 80px;
+    height: 85px;
+    left: 350px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.text7 {
+    position: absolute;
+    width: 299px;
+    height: 28px;
+    top: 400px;
+    left: 670px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.work3 {
+    position: absolute;
+    width: 299px;
+    height: 143px;
+
+}
+
+.group2 {
+    position: absolute;
+    width: 189px;
+    height: 99px;
+    top: 300px;
+    left: 100px;
+}
+
+.plus1 {
+    position: absolute;
+    width: 67px;
+    height: 85px;
+    left: 430px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+}
+
+.num2 {
+    position: absolute;
+    width: 121px;
+    font-size: 80px;
+    height: 85px;
+    left: 350px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.text8 {
+    position: absolute;
+    width: 299px;
+    height: 28px;
+    top: 400px;
+    left: 420px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.work4 {
+    position: absolute;
+    width: 299px;
+    height: 143px;
+
+}
+
+.group3 {
+    position: absolute;
+    width: 189px;
+    height: 99px;
+    top: 300px;
+}
+
+.plus2 {
+    position: absolute;
+    width: 67px;
+    height: 85px;
+    left: 150px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 80px;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+}
+
+.num3 {
+    position: absolute;
+    width: 121px;
+    font-size: 80px;
+    height: 85px;
+    left: 60px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.text9 {
+    position: absolute;
+    width: 299px;
+    height: 28px;
+    top: 400px;
+    left: 140px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+
+.text4 {
+    position: absolute;
+    width: 428px;
+    height: 137px;
+    left: 450px;
+    top: -20px;
+
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.texts {
+    position: absolute;
+    width: 639px;
+    height: 200px;
+    left: -100px;
+    top: -150px;
+}
+
+.text5 {
+    position: absolute;
+    width: 155px;
+    height: 18px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 15px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+}
+
+.text6 {
+    position: absolute;
+    width: 639px;
+    height: 170px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 80px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.pattern-box {
+    position: absolute;
+    width: 50%;
+    height: 30%;
+    left: 0px;
+    top: 1615px;
+}
+
+.pattern-rect {
+    position: absolute;
+    width: 1920px;
+    height: 894px;
+    left: 0px;
+    top: 1935px;
+
+    background: #F9F9F9;
+}
+
+.mask {
+    position: absolute;
+    width: 1300px;
+    height: 894px;
+    left: 0px;
+
+}
+
+.pattern-img {
+    position: absolute;
+    width: 568.94px;
+    height: 500.63px;
+    /* left: 2617.9px; */
+    background: url(pngwing.png);
+    /* opacity: 0.1; */
+    transform: rotate(178.54deg);
+}
+
+.pattern-img1 {
+    position: absolute;
+    width: 568.94px;
+    height: 533.63px;
+    left: 953.19px;
+    background: url(pngwing.png);
+    /* opacity: 0.1; */
+    transform: rotate(179.22deg);
+}
+
+.pattern-group1 {
+    position: absolute;
+    width: 504px;
+    height: 221px;
+    left: -50px;
+    top: 50%;
+
+}
+
+.pattern-text1 {
+    position: absolute;
+    width: 187px;
+    height: 18px;
+    left: 402px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1px;
+    letter-spacing: -0.02em;
+    color: #EC2232;
+}
+
+.pattern-text2 {
+    position: absolute;
+    width: 604px;
+    height: 170px;
+    left: 402px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.card1img {
+    position: absolute;
+    width: 312px;
+    height: 363px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.9;
+}
+
+.card2img {
+    position: absolute;
+    width: 312px;
+    height: 363px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.9;
+}
+
+.card3img {
+    position: absolute;
+    width: 312px;
+    height: 363px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.9;
+}
+
+.card4img {
+    position: absolute;
+    width: 109px;
+    height: 363px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.9;
+}
+
+.card1 {
+    position: absolute;
+    width: 312px;
+    height: 471px;
+    left: 360px;
+    top: 277px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cardtext1 {
+    position: absolute;
+    width: 200px;
+    height: 86px;
+    left: 50px;
+    top: 395px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+
+.card2 {
+    position: absolute;
+    width: 312px;
+    height: 471px;
+    left: 714px;
+    top: 277px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cardtext2 {
+    position: absolute;
+    width: 200px;
+    height: 86px;
+    left: 50px;
+    top: 395px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+
+.card3 {
+    position: absolute;
+    width: 312px;
+    height: 471px;
+    left: 1066px;
+    top: 277px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cardtext3 {
+    position: absolute;
+    width: 200px;
+    height: 86px;
+    left: 50px;
+    top: 395px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+
+.card4 {
+    position: absolute;
+    width: 109px;
+    height: 471px;
+    left: 1419px;
+    top: 277px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.cardtext4 {
+    position: absolute;
+    width: 56px;
+    height: 86px;
+    left: 50px;
+    top: 395px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 21px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.industry-serve1 {
+    position: absolute;
+    width: 680px;
+    height: 85px;
+    left: 297px;
+    top: 390%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 85px;
+    /* identical to box height, or 94% */
+    color: #E5E5E5;
+    letter-spacing: -0.02em;
+    text-shadow: -1px 1px 0px black,
+        1px 1px 0px black,
+        1px -1px 0px black,
+        -1px -1px 0px black;
+}
+
+.industry-serve2 {
+    position: absolute;
+    width: 680px;
+    height: 85px;
+    left: 297px;
+    top: 398%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    color: #E5E5E5;
+    letter-spacing: -0.02em;
+    text-shadow: -1px 1px 0px black,
+        1px 1px 0px black,
+        1px -1px 0px black,
+        -1px -1px 0px black;
+    background-color: #E5E5E5;
+}
+
+.industry-serve3 {
+    position: absolute;
+    width: 680px;
+    height: 85px;
+    left: 296px;
+    top: 406%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 65px;
+    line-height: 85px;
+    letter-spacing: -0.02em;
+    background-color: #E5E5E5;
+    color: #222222;
+}
+
+.plus4 {
+    position: absolute;
+    width: 680px;
+    height: 85px;
+    left: 296px;
+    top: 418%;
+    color: red;
+    font-size: 60px;
+    font-weight: bolder;
+    opacity: 0.5;
+}
+
+.expertise {
+    position: absolute;
+    width: 680px;
+    height: 85px;
+    left: 350px;
+    top: 425%;
+    color: #9198A0;
+    ;
+    font-size: 20px;
+}
+
+.line {
+    position: absolute;
+    width: 2px;
+    height: 645px;
+    left: 310px;
+    top: 435%;
+    background: #EC2232;
+}
+
+.G1 {
+    position: absolute;
+    width: 1262px;
+    height: 90px;
+    left: 50px;
+    top: 440%;
+    display: flex;
+}
+
+.g1 {
+    position: absolute;
+    width: 594px;
+    height: 90px;
+    left: 310px;
+    display: flex;
+
+}
+
+.gnum1 {
+    position: absolute;
+    top: -15%;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 5px;
+    color: #2f2e2e;
+}
+
+.gvector1 {
+    left: 310px;
+    top: 435%;
+    width: 28px;
+}
+
+.g2 {
+    position: absolute;
+    width: 594px;
+    height: 90px;
+    left: 910px;
+    display: flex;
+
+}
+
+.gnum2 {
+    position: absolute;
+    top: -15%;
+    ;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 5px;
+    color: #2f2e2e;
+}
+
+.gvector2 {
+    left: 310px;
+    top: 435%;
+    width: 28px;
+}
+
+.G2 {
+    position: absolute;
+    width: 1262px;
+    height: 90px;
+    left: 50px;
+    top: 440%;
+    display: flex;
+}
+
+.g3 {
+    position: absolute;
+    width: 594px;
+    height: 90px;
+    left: 310px;
+    display: flex;
+    top: 230%;
+}
+
+.gnum3 {
+    position: absolute;
+    top: -15%;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 5px;
+    color: #2f2e2e;
+}
+
+.gvector3 {
+    left: 310px;
+    top: 435%;
+    width: 28px;
+}
+
+.g4 {
+    position: absolute;
+    width: 594px;
+    height: 90px;
+    left: 910px;
+    display: flex;
+    top: 230%;
+}
+
+.gnum4 {
+    position: absolute;
+    top: -15%;
+    ;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 5px;
+    color: #2f2e2e;
+}
+
+.gvector4 {
+    left: 310px;
+    top: 435%;
+    width: 28px;
+}
+
+.G3 {
+    position: absolute;
+    width: 1262px;
+    height: 90px;
+    left: 50px;
+    top: 440%;
+    display: flex;
+}
+
+.g5 {
+    position: absolute;
+    width: 594px;
+    height: 90px;
+    left: 310px;
+    display: flex;
+    top: 480%;
+}
+
+.gnum5 {
+    position: absolute;
+    top: -15%;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 5px;
+    color: #2f2e2e;
+}
+
+.gvector5 {
+    left: 310px;
+    top: 435%;
+    width: 28px;
+}
+
+.g6 {
+    position: absolute;
+    width: 594px;
+    height: 90px;
+    left: 910px;
+    display: flex;
+    top: 480%;
+}
+
+.gnum6 {
+    position: absolute;
+    top: -15%;
+    ;
+    width: 28px;
+    height: 5px;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 5px;
+    color: #2f2e2e;
+}
+
+.gvector6 {
+    left: 310px;
+    top: 435%;
+    width: 28px;
+}
+
+.vectorimg1 {
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 40%;
+    top: -9px;
+    right: 39.22%;
+    color: #EC2333;
+}
+
+.vectorimg2 {
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 40%;
+    top: -9px;
+    right: 39.22%;
+    color: #EC2333;
+}
+
+.vectorimg3 {
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 40%;
+    top: -9px;
+    right: 39.22%;
+    color: #EC2333;
+}
+
+.vectorimg4 {
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 40%;
+    top: -9px;
+    right: 39.22%;
+    color: #EC2333;
+}
+
+.vectorimg5 {
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 40%;
+    top: -9px;
+    right: 39.22%;
+    color: #EC2333;
+}
+
+.vectorimg6 {
+    position: absolute;
+    left: 6%;
+    width: 10%;
+    height: 40%;
+    top: -9px;
+    right: 39.22%;
+    color: #EC2333;
+}
+
+.g1h6 {
+    position: absolute;
+    width: 416px;
+    height: 51px;
+    left: 20%;
+    top: -90%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    color: #000000;
+}
+
+.g1p {
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    left: 20%;
+    top: -2%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+    color: #222222;
+}
+
+.infra {
+    position: absolute;
+    width: 100%;
+    height: 140%;
+    left: 0px;
+    top: 550%;
+    background: #094367;
+    overflow: hidden;
+}
+
+.infra-pic {
+    position: absolute;
+    width: 100%;
+    height: 140%;
+    opacity: 0.5;
+    overflow: hidden;
+}
+
+.infra-texts {
+    position: absolute;
+    width: 594px;
+    height: 291px;
+    left: 5%px;
+    top: 10%;
+}
+
+.infra-text1 {
+    position: absolute;
+    width: 187px;
+    height: 18px;
+    left: 350px;
+    top: 30%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+
+}
+
+.infra-text2 {
+    position: absolute;
+    width: 400px;
+    height: 170px;
+    left: 350px;
+    top: 30%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 80px;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+}
+
+.infra-text3 {
+    position: absolute;
+    width: 450px;
+    height: 51px;
+    left: 350px;
+    top: 90%;
+    font-family: 'ITC Avant Garde Gothic Std';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.infra-pictures {
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    left: 350px;
+    top: 60%;
+    display: flex;
+}
+
+.infra-picture1 {
+    color: white;
+    top: -70%;
+    width: 8%;
+    height: 50%;
+    left: 2px;
+}
+
+.infra-num1 {
+    color: white;
+    top: 10%;
+    font-size: 30px;
+
+}
+
+.infra-block2 {
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    left: 170px;
+    top: 0%;
+}
+
+.infra-picture2 {
+    color: white;
+    top: -70%;
+    width: 8%;
+    height: 50%;
+    left: 2px;
+}
+
+.infra-num2 {
+    color: white;
+    top: 10%;
+    font-size: 30px;
+    left: 500px;
+}
+
+.infra-block3 {
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    left: 350px;
+    top: 0%;
+}
+
+.infra-picture3 {
+    color: white;
+    top: -70%;
+    width: 8%;
+    height: 50%;
+    left: 2px;
+}
+
+.infra-num3 {
+    color: white;
+    top: 10%;
+    font-size: 30px;
+}
+
+.companies {
+    position: absolute;
+    top: 700%;
+    width: 100%;
+}
+
+.company-text {
+    color: #EC2232;
+    text-transform: capitalize;
+    font-size: 16px;
+    text-align: center;
+}
+
+.form {
+    position: absolute;
+    width: 100%;
+    top: 800%;
+}
+
+.left-container {
+    position: absolute;
+    width: 50%;
+    top: -25%;
+    background-color: #094367;
+    display: grid;
+    height: 154%;
+}
+
+.right-container {
+    position: absolute;
+    top: -25%;
+    width: 50%;
+    background-color: #ffffff;
+    display: grid;
+    left: 50%;
+    height: 154%;
+}
+
+form {
+    position: relative;
+    top: 850%;
+    background-color: #094367;
+    left: 10%;
+    width: 35%;
+    border: 1px solid #000000;
+    display: grid;
+}
+
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: none;
+    width: 75%;
+}
+
+.textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: none;
+    width: 75%;
+}
+
+button {
+    background-color: red;
+    color: white;
+    border: none;
+    width: 20%;
+    padding: 10px;
+    border-radius: 50px;
+    bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.form-img {
+    width: 36%;
+    left: 100%;
+    opacity: 1;
+}
+
+.map {
+    width: 80%;
+    left: 136%;
+    opacity: 1;
+}
+
+.line-div {
+    height: 2px;
+    position: relative;
+    top: -700%;
+    background-color: #ffffff;
+    left: 1%;
+    width: 30%;
+}
+
+.footer {
+    position: absolute;
+    top: 899%;
+    background-color: #000000;
+    width: 100%;
+    height: 30%;
+}
+
+.headings {
+    position: absolute;
+    color: white;
+    left: 5%;
+    width: 20%;
+    top: 10%;
+
+}
+
+.h5 {
+    font-size: 18px;
+    height: 10px;
+    text-align: center;
+}
+
+.footer-heading {
+    position: relative;
+    left: 40%;
+    width: 30%;
+    top: 10%;
+    color: white;
+    display: flex;
+    height: 80%;
+}
+
+.list1 {
+    top: 13%;
+    position: relative;
+    left: -10%;
+    margin-top: 10%;
+}
+
+.list2 {
+    top: 13%;
+    position: relative;
+    left: -0%;
+    margin-top: 10%;
+}
+
+.h5-head {
+    font-size: 18px;
+    height: 10px;
+    position: relative;
+    left: 10%;
+}
+
+.socials {
+    position: absolute;
+    color: white;
+    left: 75%;
+    width: 20%;
+    top: 20%;
+    height: 70%;
+}
+
+.social-logo {
+    display: flex;
+}
+
+.logo-size1 {
+    top: 13%;
+    left: 40%;
+    height: 30px;
+    width: 30px;
+    opacity: 1;
+}
+
+.logo-size2 {
+    top: 13%;
+    left: 20%;
+    height: 30px;
+    width: 30px;
+    opacity: 1;
+}
+
+.logo-size3 {
+    top: 13%;
+    right: 30%;
+    height: 30px;
+    width: 30px;
+    opacity: 1;
+}
+
+.address {
+    top: 40%;
+    position: relative;
+    right: -2%;
+}
+
+.p {
+    font-size: 13px;
+    position: relative;
+    left: 50px;
+}
+
+/* error occuring whi;e using media query */
+
+/* @media only screen and (max-width: 1600px) {
+    .nav {
+        width: 39%;
+    }
+
+    .image1 {
+        width: 31%;
+        left: 2%;
+        height: 50%;
+    }
+
+    img {
+        width: 100%;
+        left: 0.1%;
+    }
+
+    .vector1 {
+        font-size: 8.75px;
+    }
+
+    .logo {
+        font-size: 16.75px;
+    }
+
+    .text {
+        width: 350px;
+        height: 150px;
+        left: 110px;
+        top: 126px;
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .text1 {
+        width: 90px;
+        left: 120px;
+        font-size: 25px;
+        top: -250%;
+    }
+
+    .text2 {
+        width: 90px;
+        left: 30px;
+        font-size: 25px;
+        top: -250%;
+    }
+
+    .text3 {
+        width: 90px;
+        left: -20px;
+        font-size: 25px;
+        top: -250%;
+    }
+
+
+    .num {
+
+        left: 80px;
+        top: -300px;
+
+    }
+
+    .rect1 {
+        width: 100px;
+        height: 100px;
+        left: 133px;
+        top: 310px;
+        background: #EC2232;
+        opacity: 0.5;
+    }
+
+    .texts {
+        position: absolute;
+        width: 139px;
+        height: 200px;
+        left: 10px;
+        top: -50px;
+    }
+
+    .text5 {
+        top: 30%;
+        font-size: 10px;
+        letter-spacing: -0.02em;
+        line-height: 1px;
+    }
+
+    .text6 {
+        top: 40%;
+        width: 239px;
+        font-size: 20px;
+        line-height: 18px;
+
+    }
+
+    .works {
+        width: 1136px;
+        height: 614px;
+        left: 192px;
+        top: 655px;
+    }
+
+    .text4 {
+        width: 180px;
+        height: 137px;
+        left: 160px;
+        top: -10px;
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .work1 {
+        position: absolute;
+        width: 1136px;
+        height: 154px;
+        left: -150px;
+        top: -150px;
+    }
+
+    .work2 {
+        width: 199px;
+        height: 143px;
+    }
+
+    .group1 {
+        width: 89px;
+        height: 99px;
+        top: 100px;
+        left: 150px;
+    }
+
+    .plus {
+        width: 67px;
+        left: 110px;
+        font-size: 30px;
+        top: 200px;
+    }
+
+    .num1 {
+        width: 121px;
+        font-size: 30px;
+        left: 210px;
+        top: 198px;
+    }
+
+    .text7 {
+        width: 299px;
+        height: 28px;
+        top: 350px;
+        left: 340px;
+        font-size: 13px;
+    }
+
+    .work3 {
+        position: absolute;
+        width: 299px;
+        height: 143px;
+
+    }
+
+
+    .plus1 {
+        width: 67px;
+        left: 300px;
+        font-size: 30px;
+        top: -3px;
+    }
+
+    .num2 {
+        width: 121px;
+        font-size: 30px;
+        left: 120px;
+        top: -5x;
+    }
+
+    .text8 {
+        width: 299px;
+        height: 28px;
+        top: 350px;
+        left: 200px;
+        font-size: 13px;
+    }
+
+    .work4 {
+        position: absolute;
+        width: 299px;
+        height: 100px;
+    }
+
+
+    .plus2 {
+        width: 67px;
+        left: 30px;
+        font-size: 30px;
+    }
+
+    .num3 {
+        width: 121px;
+        font-size: 30px;
+        left: -10px;
+    }
+
+    .text9 {
+        width: 299px;
+        height: 28px;
+        top: 350px;
+        left: 50px;
+        font-size: 13px;
+    }
+
+    .texts {
+        position: absolute;
+        width: 639px;
+        height: 200px;
+        left: -100px;
+        top: -150px;
+    }
+
+    .rect2 {
+        position: absolute;
+        width: 1px;
+        height: 154px;
+        top: 300px;
+        left: 320px;
+
+    }
+
+    .rect3 {
+        position: absolute;
+        width: 1px;
+        height: 154px;
+        top: 300px;
+        left: 190px;
+
+    }
+
+    .pattern-box {
+        top: 1100px;
+    }
+
+    .pattern-rect {
+        position: absolute;
+        width: 1920px;
+        height: 894px;
+        left: 0px;
+        top: 1500px;
+
+    }
+
+    .mask {
+        width: 500px;
+        height: 894px;
+
+    }
+
+    .pattern-img {
+        width: 268.94px;
+        height: 200.63px;
+        opacity: 1
+    }
+
+    .pattern-img1 {
+        width: 268.94px;
+        height: 200.63px;
+        left: 253.19px;
+        opacity: 1;
+    }
+
+    .pattern-group1 {
+        position: absolute;
+        width: 504px;
+        height: 221px;
+        left: -50px;
+        top: 20%;
+
+    }
+
+    .pattern-text1 {
+        width: 100px;
+        height: 18px;
+        left: 202px;
+        font-size: 10px;
+    }
+
+    .pattern-text2 {
+        width: 224px;
+        left: 202px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .card1 {
+        width: 100px;
+        height: 271px;
+        left: 160px;
+        top: 207px;
+    }
+
+    .cardtext1 {
+        width: 100px;
+        height: 86px;
+        left: 10px;
+        top: 210px;
+        font-size: 12px;
+    }
+
+
+    .card2 {
+        position: absolute;
+        width: 100px;
+        height: 271px;
+        left: 280px;
+        top: 207px;
+    }
+
+    .cardtext2 {
+        width: 100px;
+        height: 86px;
+        left: 10px;
+        top: 210px;
+        font-size: 12px;
+    }
+
+
+    .card3 {
+        position: absolute;
+        width: 100px;
+        height: 271px;
+        left: 400px;
+        top: 207px;
+    }
+
+    .cardtext3 {
+        width: 100px;
+        height: 86px;
+        left: 10px;
+        top: 210px;
+        font-size: 12px;
+    }
+
+
+    .card4 {
+        width: 37px;
+        height: 271px;
+        left: 520px;
+        top: 207px;
+    }
+
+    .cardtext4 {
+        width: 56px;
+        height: 86px;
+        left: 50px;
+        top: 210px;
+        font-size: 21px;
+    }
+
+    .card1img {
+        width: 100px;
+        height: 200px;
+    }
+
+    .card2img {
+        width: 100px;
+        height: 200px;
+    }
+
+    .card3img {
+        width: 100px;
+        height: 200px;
+    }
+
+    .card4img {
+        width: 36px;
+        height: 200px;
+    }
+
+    .industry-serve1 {
+        left: 90px;
+        top: 190%;
+        font-size: 35px;
+        width: 300px;
+        text-align: center;
+    }
+
+    .industry-serve2 {
+        left: 90px;
+        top: 195%;
+        font-size: 35px;
+        width: 300px;
+        text-align: center;
+    }
+
+    .industry-serve3 {
+        left: 90px;
+        top: 200%;
+        font-size: 35px;
+        width: 300px;
+        text-align: center;
+    }
+
+    .plus4 {
+        left: 100px;
+        top: 210%;
+    }
+
+    .expertise {
+        width: 680px;
+        left: 150px;
+        top: 213%;
+        font-size: 13px;
+    }
+
+    .line {
+        height: 500px;
+        left: 120px;
+        top: 220%;
+    }
+
+    .G1 {
+        width: 231px;
+        height: 90px;
+        left: 136px;
+        top: 225%;
+    }
+
+    .g1 {
+        width: 232px;
+        height: 90px;
+        left: 0px;
+        display: flex;
+
+    }
+
+    .gnum1 {
+        font-size: 12px;
+    }
+
+    .gvector1 {
+        left: 320px;
+        top: 430%;
+        width: 28px;
+    }
+
+    .g2 {
+        position: absolute;
+        width: 594px;
+        height: 90px;
+        left: 910px;
+        display: flex;
+
+    }
+
+    .gnum2 {
+        position: absolute;
+        top: -15%;
+        ;
+        width: 28px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 5px;
+
+
+        color: #2f2e2e;
+    }
+
+    .gvector2 {
+        left: 310px;
+        top: 435%;
+        width: 28px;
+    }
+
+    .G2 {
+        position: absolute;
+        width: 1262px;
+        height: 90px;
+        left: 50px;
+        top: 440%;
+        display: flex;
+    }
+
+    .g3 {
+        position: absolute;
+        width: 594px;
+        height: 90px;
+        left: 310px;
+        display: flex;
+        top: 230%;
+    }
+
+    .gnum3 {
+        position: absolute;
+        top: -15%;
+        ;
+        width: 28px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 5px;
+
+
+        color: #2f2e2e;
+    }
+
+    .gvector3 {
+        left: 310px;
+        top: 435%;
+        width: 28px;
+    }
+
+    .g4 {
+        position: absolute;
+        width: 594px;
+        height: 90px;
+        left: 910px;
+        display: flex;
+        top: 230%;
+    }
+
+    .gnum4 {
+        position: absolute;
+        top: -15%;
+        ;
+        width: 28px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 5px;
+       
+
+
+        color: #2f2e2e;
+    }
+
+    .gvector4 {
+        left: 310px;
+        top: 435%;
+        width: 28px;
+    }
+
+    .G3 {
+        position: absolute;
+        width: 1262px;
+        height: 90px;
+        left: 50px;
+        top: 440%;
+        display: flex;
+    }
+
+    .g5 {
+        position: absolute;
+        width: 594px;
+        height: 90px;
+        left: 310px;
+        display: flex;
+        top: 480%;
+    }
+
+    .gnum5 {
+        position: absolute;
+        top: -15%;
+        ;
+        width: 28px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 5px;
+
+
+
+        color: #2f2e2e;
+    }
+
+    .gvector5 {
+        left: 310px;
+        top: 435%;
+        width: 28px;
+    }
+
+    .g6 {
+        position: absolute;
+        width: 594px;
+        height: 90px;
+        left: 910px;
+        display: flex;
+        top: 480%;
+    }
+
+    .gnum6 {
+        position: absolute;
+        top: -15%;
+        ;
+        width: 28px;
+        height: 5px;
+        font-family: 'ITC Avant Garde Gothic Std';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 5px;
+        color: #2f2e2e;
+    }
+
+    .gvector6 {
+        left: 310px;
+        top: 435%;
+        width: 28px;
+    }
+
+
+}  */
